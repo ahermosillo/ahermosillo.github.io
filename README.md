@@ -1,2 +1,0 @@
-# ahermosillo.github.io
-website
